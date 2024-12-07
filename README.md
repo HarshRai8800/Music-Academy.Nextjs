@@ -1,3 +1,4 @@
+Next.js 3D Experience Project
 A visually stunning web application built using Next.js and several open-source libraries, designed to provide an immersive user experience with 3D elements, animations, and dynamic visuals.
 
 🚀 Features
@@ -13,4 +14,4 @@ Next.js - A React framework for building fast, server-rendered web applications.
 React Three Fiber - A powerful renderer for creating 3D experiences in React.
 @react-three/drei - A set of useful helpers for React Three Fiber.
 Framer Motion - A library for declarative animations and gestures.
-Tailwind CSS - A utility-first CSS framework for rapid UI developm
+Tailwind CSS - A utility-first CSS framework for rapid UI development.
